@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Xml Login UI 3</string>
+    <string name="please_login_to_your_account">Please Login to your account.</string>
+    <string name="welcome_back">Welcome Back!</string>
+</resources>
